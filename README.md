@@ -1,7 +1,6 @@
-![I am Python Developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/193148466_310953843845616_2774654450695222077_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=HXn-_tqnmuIAX8AYAJJ&_nc_ht=scontent.fdac116-1.fna&oh=3605adc85604926573eb8ce0a8fe60b8&oe=61706029)
 
-### Hi there 👋, I am Md Imam Ahasan
-#### I am Python Developer
+## Hi there, I am Md Imam Ahasan
+#### I'm Python Developer
 
 I'm a Python Developer. I have a passion for learning and sharing my knowledge with other as publicly as possible. I love to solve real world problems. 
 

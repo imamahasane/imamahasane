@@ -7,7 +7,7 @@ I'm a Python Developer. I have a passion for learning and sharing my knowledge w
 Skills: Python/ HTML / CSS
 
 - 🔭 I’m currently working on Songkolok 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on GitHub 
 
 

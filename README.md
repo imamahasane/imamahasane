@@ -4,6 +4,7 @@
 ### Data Science Enthusiast
 
 Technical Skills: Python · scikit-learn · HTML · CSS
+
 Analytics: IPython · Numpy · Pandas · Matplotlib · Seaborn · PostgreSQL
 
 - 🔭 I’m currently working on Songkolok 

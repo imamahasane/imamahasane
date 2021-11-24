@@ -1,13 +1,13 @@
 
 ## Hi there, I am Md Imam Ahasan
-#### I'm Python Developer
 
-I'm a Python Developer. I have a passion for learning and sharing my knowledge with other as publicly as possible. I love to solve real world problems. 
+### Data Science Enthusiast
 
-Skills: Python/ HTML / CSS
+Technical Skills: Python · scikit-learn · HTML · CSS
+Analytics: IPython · Numpy · Pandas · Matplotlib · Seaborn · PostgreSQL
 
 - 🔭 I’m currently working on Songkolok 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on GitHub 
 
 

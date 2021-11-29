@@ -1,7 +1,7 @@
 
 ## Hi there, I am Md Imam Ahasan
 
-### Data Science Enthusiast
+### Data Science Enthusiast | Data Analysis | Machine Learning
 
 Technical Skills: Python · scikit-learn · HTML · CSS
 

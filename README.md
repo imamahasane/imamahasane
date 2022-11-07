@@ -8,10 +8,10 @@ A Front-End Developer <br>
 
 ### Useful Links
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg">](https://www.imamahasan.xyz) 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/facebook.svg">](https://www.facebook.com/imamahasane/) 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/linkedin.svg">](https://www.linkedin.com/in/imamahasane/)
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/hackerrank.svg">](https://www.hackerrank.com/imamahasan)
+[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/website.svg">](https://www.imamahasan.xyz) 
+[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/facebook.svg">](https://www.facebook.com/imamahasane/) 
+[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/linkedin.svg">](https://www.linkedin.com/in/imamahasane/)
+[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/hackerrank.svg">](https://www.hackerrank.com/imamahasan)
 <br>
 <br>
 

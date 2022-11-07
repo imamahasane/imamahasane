@@ -6,6 +6,8 @@ A Front-End Developer <br>
 🏠 &nbsp; Living: Dhaka, Bangladesh 
 <br>
 
+### Useful Links
+
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg">](https://www.imamahasan.xyz) 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/facebook.svg">](https://www.facebook.com/imamahasane/) 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/linkedin.svg">](https://www.linkedin.com/in/imamahasane/)
@@ -28,16 +30,17 @@ A Front-End Developer <br>
 [<img align="left" alt="python" width="45" hspace="5" src="images/python.svg">]()
 <br>
 <br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imamahasane&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane)  
 
 ![Profile views](https://gpvc.arturio.dev/imamahasane)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-Thanks for visiting my portfolio. <br>
+### Thank you for viewing my portfolio. <br>
 All rights reserved by Imam Ahasan &copy; 2022
-

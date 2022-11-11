@@ -5,6 +5,7 @@
 A Front-End Developer <br>
 🏠 &nbsp; Living: Dhaka, Bangladesh 
 <br>
+<hr>
 
 ### Useful Links
 
@@ -14,11 +15,13 @@ A Front-End Developer <br>
 [<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/hackerrank.svg">](https://www.hackerrank.com/imamahasan)
 <br>
 <br>
+<hr>
 
 ### 👨‍🏫 &nbsp; About Me
 <p aling="justify">
   To make a remarkable gift for the universe to contribute to the revolution of World Wide Web.
 </p>
+<hr>
 
 
 ### 👨🏽‍💻 &nbsp; My Skills
@@ -31,6 +34,7 @@ A Front-End Developer <br>
 <br>
 <br>
 <br>
+<hr>
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imamahasane&show_icons=true)
@@ -41,6 +45,8 @@ A Front-End Developer <br>
 
 ![Profile views](https://gpvc.arturio.dev/imamahasane)  
 <br>
+<hr>
 
 ### Thank you for viewing my portfolio. <br>
 All rights reserved by Imam Ahasan &copy; 2022
+<hr>

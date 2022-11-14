@@ -3,7 +3,7 @@
 <h1> 👋 Hello, I'm Imam Ahasan </h1>
 
 A Front-End Developer <br>
-🏠 &nbsp; Living: Dhaka, Bangladesh 
+🏠 &nbsp; Dhaka, Bangladesh 
 <br>
 <hr>
 

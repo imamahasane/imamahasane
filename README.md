@@ -5,7 +5,7 @@
 A Front-End Developer <br>
 🏠 &nbsp; Dhaka, Bangladesh 
 <br>
-<hr>
+<hr>              
 
 ### Useful Links
 

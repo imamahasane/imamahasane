@@ -28,6 +28,7 @@ A Front-End Developer <br>
 [<img align="left" alt="css3" width="45" hspace="5" src="images/css3.svg">]()
 [<img align="left" alt="bootstrap" width="45" hspace="5" src="images/bootstrap.svg">]()
 [<img align="left" alt="javascript" width="45" hspace="5" src="images/js.svg">]()
+[<img align="left" alt="reactJS" width="45" hspace="5" src="images/react.svg">]()
 [<img align="left" alt="python" width="45" hspace="5" src="images/python.svg">]()
 <br> <br>
 <hr>  

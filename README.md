@@ -41,7 +41,7 @@ A Front-End Developer <br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/imamahasane)  
 <br>

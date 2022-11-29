@@ -43,10 +43,6 @@ A Front-End Developer <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imamahasane&repo=ReactJS_Practices&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imamahasane&repo=Front_End_Practices&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/imamahasane)  
 <br>
 <hr>

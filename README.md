@@ -33,11 +33,11 @@ A Front-End Developer <br>
 <br> <br>
 <hr>  
 
-![Imam Ahasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imamahasane&show_icons=true&theme=highcontrast)
+<!-- ![Imam Ahasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imamahasane&show_icons=true&theme=highcontrast) -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane&theme=tokyonight)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 <hr>
 
 ![Profile views](https://gpvc.arturio.dev/imamahasane)  

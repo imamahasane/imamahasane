@@ -22,7 +22,7 @@ A Front-End Dev | Machine Learning | Data Analyst <br>
 </p>
 <hr>
 
-### 👨🏽‍💻 &nbsp; My Skills
+<!-- ### 👨🏽‍💻 &nbsp; My Skills
 
 [<img align="left" alt="html5" width="45" hspace="5" src="images/html5.svg">]()
 [<img align="left" alt="css3" width="45" hspace="5" src="images/css3.svg">]()
@@ -31,7 +31,7 @@ A Front-End Dev | Machine Learning | Data Analyst <br>
 [<img align="left" alt="reactJS" width="45" hspace="5" src="images/react.svg">]()
 [<img align="left" alt="python" width="45" hspace="5" src="images/python.svg">]()
 <br> <br>
-<hr>  
+<hr>   -->
 
 <!-- ![Imam Ahasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imamahasane&show_icons=true&theme=highcontrast) -->
 

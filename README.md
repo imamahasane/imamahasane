@@ -2,7 +2,7 @@
 
 <h1> 👋 Hello, I'm Imam Ahasan </h1>
 
-A Front-End Dev | Machine Learning | Data Analyst <br>
+Machine Learning | Deep Learning | Medical Image Processing <br>
 🏠 &nbsp; Dhaka, Bangladesh 
 <br>
 <hr>              

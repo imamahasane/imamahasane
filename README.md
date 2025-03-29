@@ -1,49 +1,73 @@
-<img src="./images/cover.jpg" width="100%">
+# Md Imam Ahasan - Computer Science Student
 
-<h1> 👋 Hello, I'm Imam Ahasan </h1>
+Hello! I'm **Md Imam Ahasan**, a master's student in Computer Science at [Chongqing University](https://english.cqu.edu.cn/), specializing in **Generative Adversarial Networks (GANs) for medical image reconstruction**. My research focuses on **enhancing low-dose CT and MRI scans** to boost diagnostic accuracy and solve real-world healthcare challenges using AI and deep learning. I’m passionate about bridging the gap between innovative technology and human well-being.  
 
-Machine Learning | Deep Learning | Medical Image Processing <br>
-⌖ &nbsp; Shapingba, Chongqing, China <br>
-🏠 &nbsp; Dhaka, Bangladesh 
-<br>
-<hr>              
+---
 
-### Useful Links
+## 🚀 Key Skills  
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/website.svg">](https://medium.com/@imamahasan) 
-[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/facebook.svg">](https://www.facebook.com/imamahasane/) 
-[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/linkedin.svg">](https://www.linkedin.com/in/imamahasane/)
-[<img align="left" alt="website" title="website" width="45" hspace="5" target="_blank" src="./images/hackerrank.svg">](https://www.hackerrank.com/imamahasan)
-<br> <br>
-<hr>  
+Here’s a snapshot of my technical expertise:  
+- **Programming**: Python, NumPy, OpenCV, Matplotlib  
+- **ML Frameworks**: TensorFlow, PyTorch  
+- **Technologies**: GANs, Machine Learning, Deep Learning, Medical Imaging  
+- **Tools**: Git, GitHub, Jupyter Notebooks
 
-### 👨‍🏫 &nbsp; About Me
-<p aling="justify">
-  To make a remarkable gift for the universe to contribute to the revolution of World Wide Web.
-</p>
-<hr>
+---
+## 📌 Pinned Repositories  
 
-<!-- ### 👨🏽‍💻 &nbsp; My Skills
+coming soon ....
 
-[<img align="left" alt="html5" width="45" hspace="5" src="images/html5.svg">]()
-[<img align="left" alt="css3" width="45" hspace="5" src="images/css3.svg">]()
-[<img align="left" alt="bootstrap" width="45" hspace="5" src="images/bootstrap.svg">]()
-[<img align="left" alt="javascript" width="45" hspace="5" src="images/js.svg">]()
-[<img align="left" alt="reactJS" width="45" hspace="5" src="images/react.svg">]()
-[<img align="left" alt="python" width="45" hspace="5" src="images/python.svg">]()
-<br> <br>
-<hr>   -->
+---
 
-<!-- ![Imam Ahasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imamahasane&show_icons=true&theme=highcontrast) -->
+## 🌟 Projects
+Check out some of my key projects on GitHub: 
+
+### **1. Medical Image Reconstruction Using GANs (In Progress)**  
+- **Description**: Developing a GAN-based model to reconstruct high-quality medical images from low-resolution inputs, improving diagnostic accuracy.  
+- **Dataset**: [LoDoPaB-CT](https://zenodo.org/records/3384092) 
+- **Impact**: Enhances image clarity and reduces noise, aiding radiologists in better decision-making.  
+- **Tech Stack**: PyTorch, TensorFlow, OpenCV  
+- **Repo**: [GitHub Repository](https://github.com/imamahasane/)  
+
+---
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane&theme=tokyonight)  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
-<hr>
 
-![Profile views](https://gpvc.arturio.dev/imamahasane)  
-<hr>
+---
 
-### Thank you for viewing my portfolio. <br>
-All rights reserved by Imam Ahasan &copy; 2022
-<hr>
+## 📚 Blog  
+
+Stay updated with my latest insights and research work on my blog:  
+📖 [My Blog](https://emamahasan.com) - Covering AI, ML, and medical imaging research.  
+
+Check out some of my featured articles:  
+✅ **"Understanding GANs for Medical Image Processing"** - [Read Here](https://emamahasan.com/article)  
+✅ **"Low-Dose CT Image Denoising with AI"** - [Read Here](https://emamahasan.com/article)  
+
+---
+
+## 🌐 Connect with Me  
+
+Let’s collaborate or chat about AI, machine learning, or anything tech-related! Reach me through:  
+
+- **LinkedIn**: [linkedin.com/in/imamahasane](https://www.linkedin.com/in/imamahasane/)  
+- **HackerRank**: [hackerrank.com/profile/imamahasan](https://www.hackerrank.com/profile/imamahasan)  
+- **GitHub**: [github.com/imamahasane](https://github.com/imamahasane)  
+- **Email**: emamahasane@gmail.com  
+
+---
+
+## 🎨 Personal Touch  
+
+- **Fun Fact**: I love playing badminton, running, and exploring new challenges both in life and in code!  
+- **Inspiration**: The potential of AI to revolutionize healthcare drives me. Every line of code I write brings us closer to making medical diagnostics more accessible and accurate.  
+
+---
+
+## 🙌 Let's Build Something Amazing Together!  
+
+Feel free to explore my repositories, connect with me, or drop me a message. I’m always open to exciting opportunities, collaborations, or just sharing knowledge. Let’s innovate and make a difference! 
+
+---

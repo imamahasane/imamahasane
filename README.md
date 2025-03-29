@@ -31,12 +31,6 @@ Check out some of my key projects on GitHub:
 
 ---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane&theme=tokyonight)  
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
-
----
-
 ## 📚 Blog  
 
 Stay updated with my latest insights and research work on my blog:  
@@ -69,5 +63,11 @@ Let’s collaborate or chat about AI, machine learning, or anything tech-related
 ## 🙌 Let's Build Something Amazing Together!  
 
 Feel free to explore my repositories, connect with me, or drop me a message. I’m always open to exciting opportunities, collaborations, or just sharing knowledge. Let’s innovate and make a difference! 
+
+---
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane&theme=tokyonight)  
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---

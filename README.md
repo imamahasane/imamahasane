@@ -34,10 +34,10 @@ Check out some of my key projects on GitHub:
 ## 📚 Blog  
 
 Stay updated with my latest insights and research work on my blog:  
-📖 [My Blog](https://emamahasan.com) - Covering AI, ML, and medical imaging research.  
+📖 [My Blog](https://medium.com/@imamahasan) - Covering AI, ML, and medical imaging research.  
 
 Check out some of my featured articles:  
-✅ **"Understanding GANs for Medical Image Processing"** - [Read Here](https://emamahasan.com/article)  
+✅ **"Understanding GANs for Medical Image Processing"** - [Read Here](https://medium.com/@imamahasan/understanding-gans-for-medical-image-processing-91e3798f1555)  
 ✅ **"Low-Dose CT Image Denoising with AI"** - [Read Here](https://emamahasan.com/article)  
 
 ---
@@ -48,7 +48,8 @@ Let’s collaborate or chat about AI, machine learning, or anything tech-related
 
 - **LinkedIn**: [linkedin.com/in/imamahasane](https://www.linkedin.com/in/imamahasane/)  
 - **HackerRank**: [hackerrank.com/profile/imamahasan](https://www.hackerrank.com/profile/imamahasan)  
-- **GitHub**: [github.com/imamahasane](https://github.com/imamahasane)  
+- **GitHub**: [github.com/imamahasane](https://github.com/imamahasane)
+- **Medium**: [https://medium.com/@imamahasan](https://medium.com/@imamahasan)
 - **Email**: emamahasane@gmail.com  
 
 ---

@@ -22,12 +22,12 @@ coming soon ....
 ## 🌟 Projects
 Check out some of my key projects on GitHub: 
 
-### **1. Medical Image Reconstruction Using GANs (In Progress)**  
+### **1. GANs Framework for Low-Dose Medical Image Reconstruction (In Progress)**  
 - **Description**: Developing a GAN-based model to reconstruct high-quality medical images from low-resolution inputs, improving diagnostic accuracy.  
 - **Dataset**: [LoDoPaB-CT](https://zenodo.org/records/3384092) 
 - **Impact**: Enhances image clarity and reduces noise, aiding radiologists in better decision-making.  
 - **Tech Stack**: PyTorch, TensorFlow, OpenCV  
-- **Repo**: [GitHub Repository](https://github.com/imamahasane/)  
+- **Repo**: [GitHub Repository](https://github.com/imamahasane/ULowDoseGAN)  
 
 ---
 

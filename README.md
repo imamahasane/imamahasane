@@ -38,7 +38,7 @@ Stay updated with my latest insights and research work on my blog:
 
 Check out some of my featured articles:  
 ✅ **"Understanding GANs for Medical Image Processing"** - [Read Here](https://medium.com/@imamahasan/understanding-gans-for-medical-image-processing-91e3798f1555)  
-✅ **"Low-Dose CT Image Denoising with AI"** - [Read Here](https://emamahasan.com/article)  
+✅ **"Low-Dose CT Image Denoising with AI"** - [Read Here](https://medium.com/@imamahasan/low-dose-medical-image-denoising-with-ai-d7515975818d)  
 
 ---
 

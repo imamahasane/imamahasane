@@ -27,7 +27,7 @@ Check out some of my key projects on GitHub:
 - **Dataset**: [LoDoPaB-CT](https://zenodo.org/records/3384092) 
 - **Impact**: Enhances image clarity and reduces noise, aiding radiologists in better decision-making.  
 - **Tech Stack**: PyTorch, TensorFlow, OpenCV  
-- **Repo**: [GitHub Repository](https://github.com/imamahasane/ULowDoseGAN)  
+- **Repo**: [GitHub Repository](https://github.com/imamahasane/LightGAN-LD)  
 
 ---
 

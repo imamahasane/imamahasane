@@ -25,8 +25,8 @@ Check out some of my key projects on GitHub:
 ### **1. Dose-Aware Cold Diffusion with Physics Consistency for Generalizable Low-Dose CT Reconstruction**  
 - **Repo**: [GitHub Repository](https://github.com/imamahasane/dose-aware-cold-diffusion)
 
-### **2. L**
-- **Repo**: [GitHub Repository](https://github.com/imamahasane/)
+### **2. MTF-Net: Multi-Modal Temporal Feature Fusion Network for Pedestrian Intention Prediction**
+- **Repo**: [GitHub Repository](https://github.com/imamahasane/MTF-Net)
 
 ---
 

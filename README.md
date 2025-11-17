@@ -1,73 +1,90 @@
-# Md Imam Ahasan - Computer Science Student
-
-Hello! I'm **Md Imam Ahasan**, a master's student in Computer Science at [Chongqing University](https://english.cqu.edu.cn/), specializing in **Generative Adversarial Networks (GANs) for medical image reconstruction**. My research focuses on **enhancing low-dose CT and MRI scans** to boost diagnostic accuracy and solve real-world healthcare challenges using AI and deep learning. I’m passionate about bridging the gap between innovative technology and human well-being.  
-
----
-
-## 🚀 Key Skills  
-
-Here’s a snapshot of my technical expertise:  
-- **Programming**: Python, NumPy, OpenCV, Matplotlib  
-- **ML Frameworks**: TensorFlow, PyTorch  
-- **Technologies**: GANs, Machine Learning, Deep Learning, Medical Imaging  
-- **Tools**: Git, GitHub, Jupyter Notebooks
-
----
-## 📌 Pinned Repositories  
-
-coming soon ....
+# Md Imam Ahasan — Medical Imaging & Computer Vision Researcher
+🎓 M.Sc. in Computer Science | Chongqing University, China  
+🧠 Medical Imaging • Low-Dose CT • Diffusion Models • GANs • Computational Imaging
 
 ---
 
-## 🌟 Projects
-Check out some of my key projects on GitHub: 
+## 👋 About Me
 
-### **1. Dose-Aware Cold Diffusion with Physics Consistency for Generalizable Low-Dose CT Reconstruction**  
-- **Repo**: [GitHub Repository](https://github.com/imamahasane/dose-aware-cold-diffusion)
+I am a computer vision and medical imaging researcher passionate about building AI-driven solutions that enhance diagnostic accuracy, reduce radiation dose, and improve healthcare accessibility.  
+My work primarily focuses on:
 
-### **2. MTF-Net: Multi-Modal Temporal Feature Fusion Network for Pedestrian Intention Prediction**
-- **Repo**: [GitHub Repository](https://github.com/imamahasane/MTF-Net)
+- Low-Dose CT Reconstruction  
+- Diffusion Models & GANs  
+- Retinal Vessel Segmentation  
+- Physics-Guided Deep Learning  
+- Contrastive Learning for Medical Imaging
 
----
-
-## 📚 Blog  
-
-Stay updated with my latest insights and research work on my blog:  
-📖 [My Blog](https://medium.com/@imamahasan) - Covering AI, ML, and medical imaging research.  
-
-Check out some of my featured articles:  
-✅ **"Understanding GANs for Medical Image Processing"** - [Read Here](https://medium.com/@imamahasan/understanding-gans-for-medical-image-processing-91e3798f1555)  
-✅ **"Low-Dose CT Image Denoising with AI"** - [Read Here](https://medium.com/@imamahasan/low-dose-medical-image-denoising-with-ai-d7515975818d)  
+I have authored and co-authored multiple papers, including one accepted at PRCV 2025, and several journal and conference submissions to IEEE TMI, CVPR, PeerJ Computer Science, and BIBM.
 
 ---
 
-## 🌐 Connect with Me  
+## 🔬 Research Highlights
 
-Let’s collaborate or chat about AI, machine learning, or anything tech-related! Reach me through:  
-
-- **LinkedIn**: [linkedin.com/in/imamahasane](https://www.linkedin.com/in/imamahasane/)  
-- **HackerRank**: [hackerrank.com/profile/imamahasan](https://www.hackerrank.com/profile/imamahasan)  
-- **GitHub**: [github.com/imamahasane](https://github.com/imamahasane)
-- **Medium**: [https://medium.com/@imamahasan](https://medium.com/@imamahasan)
-- **Email**: emamahasane@gmail.com  
-
----
-
-## 🎨 Personal Touch  
-
-- **Fun Fact**: I love playing badminton, running, and exploring new challenges both in life and in code!  
-- **Inspiration**: The potential of AI to revolutionize healthcare drives me. Every line of code I write brings us closer to making medical diagnostics more accessible and accurate.  
+- **GeGLUNet**: Retinal vessel segmentation using Attention-Gated GeGLU and contrastive supervision *(PRCV 2025, Accepted)*  
+- **Dose-Aware Cold Diffusion (DCD)**: Physics-consistent diffusion model for generalizable low-dose CT reconstruction *(IEEE TMI, Under Review)*  
+- **LightGAN-LD**: Lightweight GAN for efficient low-dose CT reconstruction with sinogram encoding and edge-aware learning *(PeerJ Computer Science, Under Review)*  
+- **MTF-Net**: Multi-modal temporal feature fusion network for pedestrian intention prediction *(CVPR 2026, Under Review)*
+- **LightGAN-LD**: Lightweight GAN framework for high-fidelity low-dose CT reconstruction *(BIBM Workshop 2025, Under Review)*  
+- **Geometry-Aware Dual-Domain Diffusion**: CT reconstruction with polyenergetic forward modeling *(Scientific Reports, Nature Portfolio, Preparing)*  
+- **Bayesian Diffusion with Differentiable Radon Priors**: Bayesian diffusion models for low-dose CT reconstruction *(Results in Engineering, Preparing)*  
 
 ---
 
-## 🙌 Let's Build Something Amazing Together!  
+## 🚀 Featured Projects
 
-Feel free to explore my repositories, connect with me, or drop me a message. I’m always open to exciting opportunities, collaborations, or just sharing knowledge. Let’s innovate and make a difference! 
+### 1. Dose-Aware Cold Diffusion (DCD)
+Physics-guided cold diffusion for generalizable low-dose CT reconstruction.  
+🔗 Repo: https://github.com/imamahasane/dose-aware-cold-diffusion
+
+### 2. LightGAN-LD
+A lightweight GAN framework for LDCT reconstruction with sinogram encoding.  
+🔗 Repo: https://github.com/imamahasane/LightGAN-LD
+
+### 3. MTF-Net
+Multi-modal temporal fusion network for pedestrian intention prediction.  
+🔗 Repo: https://github.com/imamahasane/MTF-Net
 
 ---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane&theme=tokyonight)  
+## 🛠️ Skills & Tools
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imamahasane&hide=java&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
+**Programming:** Python, NumPy, Pandas, OpenCV  
+**Deep Learning:** PyTorch, TensorFlow  
+**Research:** Medical Imaging, GANs, Diffusion Models, Image Reconstruction  
+**Tools:** Git, GitHub, Jupyter Notebooks, LaTeX  
+**Others:** Data Visualization, Image Processing  
 
 ---
+
+## ✍️ Blog & Articles
+
+I regularly share insights on AI, deep learning, and medical imaging.  
+📚 Blog: https://medium.com/@imamahasan
+
+Featured articles:  
+- Understanding GANs for Medical Image Processing  
+- Low-Dose CT Denoising with AI  
+- Physics-Guided Diffusion Models in Imaging  
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/imamahasane  
+- GitHub: https://github.com/imamahasane  
+- Medium: https://medium.com/@imamahasan  
+- HackerRank: https://www.hackerrank.com/profile/imamahasan  
+- Email: emamahasane@gmail.com  
+
+---
+
+## 🎯 A Little More About Me
+
+- 🏸 I enjoy badminton, running, and photography.  
+- 🌱 I believe AI can transform global healthcare accessibility.  
+- 🔍 Currently preparing for my PhD in medical imaging & generative AI.  
+
+---
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imamahasane&theme=tokyonight)

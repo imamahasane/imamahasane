@@ -31,22 +31,6 @@ I have authored and co-authored multiple papers, including one accepted at PRCV 
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Dose-Aware Cold Diffusion (DCD)
-Physics-guided cold diffusion for generalizable low-dose CT reconstruction.  
-🔗 Repo: https://github.com/imamahasane/dose-aware-cold-diffusion
-
-### 2. LightGAN-LD
-A lightweight GAN framework for LDCT reconstruction with sinogram encoding.  
-🔗 Repo: https://github.com/imamahasane/LightGAN-LD
-
-### 3. MTF-Net
-Multi-modal temporal fusion network for pedestrian intention prediction.  
-🔗 Repo: https://github.com/imamahasane/MTF-Net
-
----
-
 ## 🛠️ Skills & Tools
 
 **Programming:** Python, NumPy, Pandas, OpenCV  

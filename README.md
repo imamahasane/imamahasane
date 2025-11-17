@@ -26,7 +26,7 @@ I have authored and co-authored multiple papers, including one accepted at PRCV 
 - **LightGAN-LD**: Lightweight GAN for efficient low-dose CT reconstruction with sinogram encoding and edge-aware learning *(PeerJ Computer Science, Under Review)*  
 - **MTF-Net**: Multi-modal temporal feature fusion network for pedestrian intention prediction *(CVPR 2026, Under Review)*
 - **LightGAN-LD**: Lightweight GAN framework for high-fidelity low-dose CT reconstruction *(BIBM Workshop 2025, Under Review)*  
-- **Geometry-Aware Dual-Domain Diffusion**: CT reconstruction with polyenergetic forward modeling *(Scientific Reports, Nature Portfolio, Preparing)*  
+- **Geometry and Dose-Aware Diffusion**: Generalizable CT reconstruction across geometries & dose *(Scientific Reports, Nature Portfolio, Preparing)*  
 - **Bayesian Diffusion with Differentiable Radon Priors**: Bayesian diffusion models for low-dose CT reconstruction *(Results in Engineering, Preparing)*  
 
 ---

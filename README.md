@@ -1,4 +1,4 @@
-# Md Imam Ahasan — Medical Imaging & Computer Vision Researcher
+# Md Imam Ahasan - Medical Imaging & Computer Vision Researcher
 🎓 M.Sc. in Computer Science | Chongqing University, China  
 🧠 Medical Imaging • Low-Dose CT • Diffusion Models • GANs • Computational Imaging
 
